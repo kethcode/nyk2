@@ -1,0 +1,21 @@
+{
+  "name": "vevm",
+  "version": "0.4.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kethic, aleta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "hardhat": "^2.12.7"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "hardhat-contract-sizer": "^2.8.0"
+  }
+}
